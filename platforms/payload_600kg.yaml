@@ -1,0 +1,24 @@
+schema_version: 1
+status: DESIGN_TEMPLATE_NOT_VALIDATED
+platform_id: planned_payload_600kg
+target_payload_kg: 600
+curb_mass_kg: null
+gross_mass_kg: null
+payload_center_of_gravity_m: null
+wheel_diameter_measured_m: null
+track_width_measured_m: null
+wheelbase_m: null
+drive_torque_limit_Nm: null
+gear_ratio: null
+efficiency: null
+floor_friction_lower_bound: null
+slope_limit_rad: null
+braking_deceleration_lower_bound_m_s2: null
+braking_measurement_reference: null
+uncertainty_model_reference: null
+approval_reference: null
+source_specification_reference: null
+notes: >-
+  600 kg is the planned payload target, not curb or gross mass.
+  Do not extrapolate current-AMR braking measurements as validated capability.
+  Unknown measurements must remain null; no admissible region is certified.
