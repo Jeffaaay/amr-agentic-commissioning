@@ -1,0 +1,28 @@
+schema_version: 1
+status: UNMEASURED_NOT_APPROVED
+platform_id: current_amr
+deployed_firmware_commit: null
+deployed_software_commit: null
+curb_mass_kg: null
+rated_payload_kg: null
+test_payload_kg: null
+payload_center_of_gravity_m: null
+wheel_diameter_measured_m: null
+track_width_measured_m: null
+floor_condition: null
+slope: null
+tire_condition: null
+braking_deceleration_lower_bound_m_s2: null
+deceleration_uncertainty_m_s2: null
+approved_speeds_m_s: [null, null, null]
+detection_delay_s: null
+communication_delay_s: null
+actuation_delay_s: null
+stop_detection_method: null
+approval_reference: null
+operator: null
+planned_variant_payload_targets_kg: [600, 1000]
+notes: >-
+  Values require verified specifications and controlled measurements.
+  Planned payload ratings are not curb masses or validated vehicles.
+  Configured acceleration/deceleration limits are not measured braking capability.
